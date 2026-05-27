@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailsender",
+        "uuid": 14386914,
+        "checksum": "avebmo"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
